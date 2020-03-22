@@ -1,0 +1,49 @@
+body {
+		background-color: green;
+		padding: 20px;
+		margin: 0 auto;
+	    display: block;	
+	}
+	
+
+	.div {
+		margin: 0 auto;
+	    display: block;
+	    margin-left: 43%;
+	}
+	.label {
+		padding: 10px;
+		text-align: center;
+		width: 250px;
+		background-color: black;
+		font-size: 30px;
+		color: white;	
+	}
+	.head {
+	
+
+		margin-top: 10px;
+		padding: 30px;
+		text-align: center;
+		width: 200px;
+		background-color: black;
+		font-size: 50px;
+		color: white;
+	}
+	
+
+	.value{
+		font-size: 20px;
+		margin-top: 10px;
+	}
+	.display{
+		color: white;
+		font-size: 20px;
+	}
+	
+
+	.details {
+		color: white;
+		font-size: 20px;
+	}
+
